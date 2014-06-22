@@ -1,0 +1,1 @@
+﻿ComicBook <-- ComicBookCharacter --> Character -'AlterEgo'-> Person
